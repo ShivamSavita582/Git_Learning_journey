@@ -27,3 +27,9 @@ let user = {
 
 }
 console.log(user)
+
+let p =0;
+while(p<10){
+    console.log('Hello I am while loop' ,p)
+    p++
+}
